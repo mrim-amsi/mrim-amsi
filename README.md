@@ -3,10 +3,10 @@
 <h3 align="center">
  💚 Welcome To Mariam Alamssi Profile!
 </h3>
-<p align="center" style="max-width: 60%;">
+<p align="center" style="max-width: 40%;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Web+Developer;API+%26+MVC+Specialist;Building+Modern+Web+Apps;Always+Learning+New+Things..." />
 </p>
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10">
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10"  align="center" style="max-width: 40%;">
 
 
 
