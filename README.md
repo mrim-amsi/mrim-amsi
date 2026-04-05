@@ -1,4 +1,4 @@
-<img width="100" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="150" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
  💚 Welcome To Mariam Alamssi Profile!
