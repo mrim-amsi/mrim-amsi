@@ -19,22 +19,25 @@
 ### Connect with Me :
 
 <p align="left">
-<a href="https://linkedin.com/in/merriam-amsi" target="blank">
-  <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="merriam-amsi" height="30" width="40" />
-</a>
+  <span style="display: flex; gap: 10px; align-items: center">
+    
+    <a href="https://linkedin.com/in/merriam-amsi" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
+    </a>
 
-<a href="https://fb.com/mrimamsi" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrimamsi" height="30" width="40" />
-</a>
+    <a href="https://fb.com/mrimamsi" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" />
+    </a>
 
-<a href="https://instagram.com/merriamamsi" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="merriamamsi" height="30" width="40" />
-</a>
+    <a href="https://instagram.com/merriamamsi" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
+    </a>
 
-<!-- WhatsApp -->
-<a href="https://wa.me/972598695954" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" />
-</a>
+    <a href="https://wa.me/972598695954" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" />
+    </a>
+
+  </span>
 </p>
 
 
