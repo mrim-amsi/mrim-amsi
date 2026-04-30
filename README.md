@@ -19,24 +19,19 @@
 ### Connect with Me :
 
 <p align="left">
-  <span style="display: flex; gap: 10px; align-items: center">
-    
+  <span style="display: flex; gap: 10px; align-items: center">   
     <a href="https://linkedin.com/in/merriam-amsi" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
     </a>
-
     <a href="https://fb.com/mrimamsi" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" />
     </a>
-
     <a href="https://instagram.com/merriamamsi" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
     </a>
-
     <a href="https://wa.me/972598695954" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" />
     </a>
-
   </span>
 </p>
 
